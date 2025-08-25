@@ -1,0 +1,2 @@
+This is file 3. Last sample file for testing.
+Line 2 of file 3.

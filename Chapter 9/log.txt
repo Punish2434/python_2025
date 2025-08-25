@@ -1,0 +1,5 @@
+2025-08-20 10:00:01 - ERROR - Disk not found
+2025-08-20 10:05:13 - INFO - User logged in
+2025-08-20 10:07:22 - WARNING - Low memory
+2025-08-20 10:10:45 - ERROR - File not found
+Python run logged successfully!

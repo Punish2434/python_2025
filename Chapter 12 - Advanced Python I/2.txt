@@ -1,0 +1,2 @@
+This is file 2. Another example text.
+Line 2 of file 2.
